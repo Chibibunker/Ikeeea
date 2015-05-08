@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>etapes</title>
+</head>
+<body>
+	<iframe width="800" height="500" allowfullscreen src="etape_1.html"></iframe>
+	<iframe width="800" height="500" allowfullscreen src="etape_2.html"></iframe>
+	<iframe width="800" height="500" allowfullscreen src="etape_5.html"></iframe>
+	<iframe width="800" height="500" allowfullscreen src="etape_6.html"></iframe>
+</body>
+</html>
